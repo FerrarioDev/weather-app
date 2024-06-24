@@ -1,6 +1,6 @@
 //api constants
 const baseUrl = `https://api.openweathermap.org/data/2.5/weather`
-const API_KEY = 'b74db982be9d42a3caac8c87568a56f5';
+const API_KEY = 'API-KEY';
 const diffKelvin = 273.15
 
 document.getElementById('searchButton').addEventListener('click', () => {
