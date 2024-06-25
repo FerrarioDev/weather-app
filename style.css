@@ -7,6 +7,7 @@ body{
     max-width: 80%;
     margin: 0 auto;
     padding: 20px;
+    margin-top: 20px;
     text-align: center;
     background-color: rgb(17, 66, 99);
     box-shadow: 0 2px 4px rgb(0, 27, 59);
